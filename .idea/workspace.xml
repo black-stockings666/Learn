@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fad45f07-fff6-4b89-a480-23cfdc046c8c" name="更改" comment="关注，评论，点赞，管理评论">
-      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/example/demo/module/video/service/impl/VideoProcessMessageConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/demo/module/video/service/impl/VideoProcessMessageConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/SiteHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/SiteHeader.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/views/HomeView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/HomeView.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
